@@ -3,7 +3,8 @@
 ![Photo de Profil](https://i.pinimg.com/736x/a0/a1/ac/a0a1ac8a8e90192deba8b4e44da2abc6.jpg)
 
 ## Informations personnelles
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=FF1A1300&random=false&width=435&lines=%3E%3E+Hello+word+!;%3E%3E+My+name+Is+John;%3E%3E+I+love+Js+and+Data;%3E%3E+You+wanna+now+more+about+me;!!!+%5B+--+Viste+my+Web+site+--+%5D+!!!)](https://git.io/typing-svg)
+- **Site:** [john.doe@example.com](https://doe-joe-portfolio.vercel.app/)
 - **Nom:** Doe
 - **Prénom:** John
 - **Âge:** 30 ans
