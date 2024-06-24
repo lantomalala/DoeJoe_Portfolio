@@ -1,0 +1,19 @@
+{
+    "nom": "Doe",
+    "prenom": "John",
+    "age": 30,
+    "adresse": {
+      "rue": "123 Rue de la Liberté",
+      "ville": "Paris",
+      "code_postal": "75001",
+      "pays": "France"
+    },
+    "profession": "Ingénieur informatique",
+    "email": "john.doe@example.com",
+    "telephone": "+33 6 12 34 56 78",
+    "description": "John Doe, un ingénieur informatique de 30 ans, réside à Paris, en France, où il vit dans un appartement situé au 123 Rue de la Liberté. Passionné par son travail, il passe ses journées à résoudre des problèmes complexes de développement logiciel. En dehors du travail, John aime voyager pour explorer de nouveaux endroits, capturer des moments précieux avec son appareil photo et cuisiner des plats délicieux inspirés de ses voyages à travers le monde.",
+    "photoDeProfil":"https://i.pinimg.com/736x/a0/a1/ac/a0a1ac8a8e90192deba8b4e44da2abc6.jpg",
+    "experience":"./experience.json"
+    
+  }
+  

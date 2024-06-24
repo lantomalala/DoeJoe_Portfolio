@@ -1,0 +1,316 @@
+[
+  {
+  "id": "poste1",
+  "photo":"https://i.pinimg.com/736x/41/d0/94/41d09474a6de745c99ed507da6d6ee5b.jpg",
+  "poste": "Data Analyst",
+  "entreprise": "Entreprise XYZ",
+  "ville": "Ville",
+  "pays": "Pays",
+  "periode": "Janvier 2020 - Mars 2023",
+  "description_poste": "En tant que data analyst chez l'entreprise XYZ, j'ai joué un rôle crucial dans l'analyse et l'interprétation des données pour informer les décisions commerciales stratégiques. Mes responsabilités comprenaient la collecte, le nettoyage, l'analyse et la présentation des données afin d'identifier des tendances, des modèles et des insights pertinents pour l'entreprise.",
+  "realisations_responsabilites": [
+    {
+      "photo":"https://i.pinimg.com/736x/3d/e7/b7/3de7b74297c4be18e2848e9941709a4b.jpg",
+      "description": "Analyse de données",
+      "details": "J'ai conçu et mis en œuvre des pipelines de données pour extraire, nettoyer et transformer des ensembles de données brutes provenant de sources multiples, y compris des bases de données SQL, des fichiers CSV et des API externes."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/eb/35/ec/eb35eca52f2d665864fc5d1faea114cb.jpg",
+      "description": "Modélisation et prévision",
+      "details": "J'ai développé des modèles prédictifs et des algorithmes statistiques pour anticiper les tendances du marché, prédire la demande des clients et optimiser les opérations internes. Cela a inclus l'utilisation de techniques telles que la régression linéaire, les séries chronologiques et les forêts aléatoires."
+    },
+    {
+      "photo":"https://i.pinimg.com/236x/6a/c7/43/6ac7430b03427b8a28bea158eafa7074.jpg",
+      "description": "Visualisation des données",
+      "details": "J'ai créé des tableaux de bord interactifs et des rapports personnalisés en utilisant des outils comme Tableau et Power BI pour présenter visuellement les insights clés aux parties prenantes internes, facilitant ainsi la prise de décision éclairée."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/e4/1a/17/e41a17ff37e3265ee387690ad9bf0592.jpg",
+      "description": "Optimisation des processus",
+      "details": "En collaboration avec les équipes opérationnelles, j'ai identifié des opportunités d'optimisation des processus en utilisant des analyses de données pour améliorer l'efficacité opérationnelle, réduire les coûts et minimiser les risques."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/1b/77/6d/1b776dead269c6d41bbaa1e3c2858408.jpg",
+      "description": "Veille technologique",
+      "details": "J'ai maintenu une expertise en matière de tendances et de meilleures pratiques en analyse de données, en explorant de nouvelles technologies, en évaluant les outils émergents et en recommandant des solutions innovantes pour améliorer les capacités d'analyse de l'entreprise."
+    }
+  ],
+  "exemple_projet_majeur": {
+    "projet": "Analyse des comportements d'achat des clients",
+    "details": [
+      "J'ai dirigé une équipe pour analyser les données transactionnelles des clients et identifier les schémas d'achat.",
+      "En utilisant des techniques d'analyse de paniers d'achat, nous avons segmenté les clients en groupes comportementaux distincts, ce qui a permis à l'entreprise de personnaliser ses stratégies marketing et d'augmenter les ventes de 15 % au cours de la première année."
+    ]
+  }
+},
+{
+  "id": "poste2",
+  "poste": "Ingénieur Big Data",
+  "photo":"https://i.pinimg.com/736x/16/40/14/164014c708daa4ee58b8fbe8c286cd95.jpg",
+  "entreprise": "Entreprise ABC",
+  "ville": "Ville",
+  "pays": "Pays",
+  "periode": "Mai 2019 - Juillet 2022",
+  "description_poste": "En tant qu'ingénieur Big Data chez Entreprise ABC, j'ai été chargé de concevoir, développer et gérer des solutions d'analyse de données à grande échelle. Mon rôle principal consistait à créer des architectures de données robustes, à développer des pipelines de traitement de données et à exploiter des technologies Big Data pour répondre aux besoins commerciaux de l'entreprise.",
+  "realisations_responsabilites": [
+    {
+      "photo":"https://i.pinimg.com/736x/61/21/f7/6121f7ebb94544039157817856882953.jpg",
+      "description": "Conception et développement d'architectures Big Data",
+      "details": "J'ai conçu et mis en œuvre des architectures Big Data évolutives en utilisant des technologies telles que Hadoop, Spark et Kafka, garantissant la capacité à traiter et à stocker des volumes massifs de données de manière efficace et fiable."
+    },
+    {
+      "photo":"https://i.pinimg.com/236x/4f/cc/95/4fcc95f7fcd337bfe7753cf7d0b66674.jpg",
+      "description": "Développement de pipelines de données",
+      "details": "J'ai développé des pipelines de données robustes pour l'ingestion, le traitement et l'analyse de données en temps réel et en mode batch, en utilisant des outils comme Apache Airflow et Apache NiFi."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/d7/ec/53/d7ec5338fc2457787506c60696be5f46.jpg",
+      "description": "Optimisation des performances",
+      "details": "J'ai optimisé les performances des systèmes Big Data en identifiant et en résolvant les goulots d'étranglement, en ajustant les paramètres de configuration et en mettant en œuvre des techniques d'optimisation avancées."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/11/0c/76/110c7675504c0cd5f4e65a212e0b2e6e.jpg",
+      "description": "Sécurité des données",
+      "details": "J'ai mis en place des mesures de sécurité des données robustes, y compris le chiffrement, l'authentification et l'autorisation, pour garantir la confidentialité et l'intégrité des données sensibles."
+    },
+    {
+      "photo":"https://i.pinimg.com/236x/bf/b1/fc/bfb1fcded824eb33976a95a708b8144d.jpg",
+      "description": "Collaboration et formation",
+      "details": "J'ai collaboré avec les équipes métier pour comprendre leurs besoins en matière d'analyse de données et j'ai fourni une formation et un soutien technique pour aider les utilisateurs à exploiter efficacement les outils et les plateformes Big Data."
+    }
+  ],
+  "exemple_projet_majeur": {
+    "projet": "Plateforme d'analyse de données en temps réel",
+    "details": [
+      "J'ai dirigé le développement d'une plateforme d'analyse de données en temps réel permettant à l'entreprise de surveiller et d'analyser les données d'utilisation des produits en temps réel.",
+      "En utilisant Apache Kafka pour l'ingestion de données et Apache Spark Streaming pour le traitement en temps réel, nous avons réduit le délai d'analyse des données de plusieurs heures à quelques secondes, ce qui a permis une prise de décision plus rapide et plus précise."
+    ]
+  }
+},
+{
+  "id": "poste3",
+  "poste": "Spécialiste en extraction de données (Data Scraping)",
+  "photo":"https://i.pinimg.com/736x/56/9e/42/569e425f0f2cd0cc084fbc0a3acd1596.jpg",
+  "entreprise": "Entreprise XYZ",
+  "ville": "Ville",
+  "pays": "Pays",
+  "periode": "Octobre 2020 - Février 2023",
+  "description_poste": "En tant que spécialiste en extraction de données chez Entreprise XYZ, j'ai été chargé de collecter des données à partir de diverses sources en ligne, en utilisant des techniques de web scraping et d'automatisation. Mon rôle consistait à extraire, nettoyer et structurer des ensembles de données pour alimenter les analyses et les systèmes informatiques de l'entreprise.",
+  "realisations_responsabilites": [
+    {
+      "photo":"https://i.pinimg.com/736x/b0/1c/2f/b01c2f684f03e408f8a7481f82af324e.jpg",
+      "description": "Développement de scripts de scraping",
+      "details": "J'ai développé des scripts de scraping personnalisés en utilisant des langages de programmation comme Python et des bibliothèques telles que BeautifulSoup et Scrapy pour extraire efficacement des données à partir de sites web, en contournant les mesures de sécurité et les protections contre le scraping."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/8e/58/1c/8e581c4a9c58e91138efcc8dd776b724.jpg",
+      "description": "Nettoyage et prétraitement des données",
+      "details": "J'ai élaboré des pipelines de nettoyage de données pour traiter les données extraites, en supprimant les valeurs aberrantes, en normalisant les formats et en résolvant les conflits de données, afin de garantir la qualité et la cohérence des données."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/13/5f/fc/135ffc459fab055afcd2bb2a95a37180.jpg",
+      "description": "Surveillance et maintenance des robots de scraping",
+      "details": "J'ai surveillé et maintenu les robots de scraping pour assurer leur bon fonctionnement continu, en mettant à jour les scripts en cas de changements dans la structure des sites web cibles et en optimisant les performances pour maximiser l'efficacité du scraping."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/92/ca/11/92ca1100a8e591fd3602fa7c5175d539.jpg",
+      "description": "Analyse et présentation des données",
+      "details": "J'ai analysé les données extraites pour identifier des tendances, des modèles et des insights pertinents, et j'ai présenté les résultats sous forme de rapports et de visualisations pour informer les décisions commerciales et stratégiques."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/5a/f2/44/5af24478a1af273885bc22843293bc28.jpg",
+      "description": "Veille technologique",
+      "details": "J'ai suivi les évolutions dans le domaine du web scraping, en explorant de nouvelles techniques et technologies pour améliorer l'efficacité et la fiabilité du processus d'extraction de données."
+    }
+  ],
+  "exemple_projet_majeur": {
+    "projet": "Scraping de données de produits concurrents",
+    "details": [
+      "J'ai dirigé un projet visant à collecter des données sur les produits concurrents, y compris les prix, les caractéristiques et les avis clients, à partir de sites de commerce électronique.",
+      "En utilisant des techniques avancées de web scraping, nous avons pu obtenir des informations précieuses sur les stratégies de tarification et les performances des produits concurrents, ce qui a permis à l'entreprise de mieux positionner ses propres offres sur le marché."
+    ]
+  }
+},
+{
+  "id": "poste4",
+  "poste": "Data Scientist",
+  "photo":"https://i.pinimg.com/736x/cb/86/6f/cb866fd6dd71b32c2cffe7831926fd4d.jpg",
+  "entreprise": "Entreprise ABC",
+  "ville": "Ville",
+  "pays": "Pays",
+  "periode": "Juin 2018 - Août 2022",
+  "description_poste": "En tant que Data Scientist chez Entreprise ABC, j'ai utilisé des techniques d'analyse avancées pour extraire des insights précieux à partir de données complexes. Mon rôle principal consistait à développer des modèles prédictifs, à effectuer des analyses statistiques approfondies et à transformer des données en recommandations exploitables pour améliorer les décisions commerciales.",
+  "realisations_responsabilites": [
+    {
+      "photo":"https://i.pinimg.com/736x/95/81/a8/9581a835ef6b04606873fdc0c6977208.jpg",
+      "description": "Exploration et prétraitement des données",
+      "details": "J'ai exploré et nettoyé des ensembles de données de grande taille provenant de sources variées, en utilisant des outils comme Pandas, NumPy et SQL pour assurer la qualité et la cohérence des données."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/12/14/6b/12146b13a74706721fb39a82467e5efa.jpg",
+      "description": "Développement de modèles prédictifs",
+      "details": "J'ai développé des modèles prédictifs en utilisant des techniques telles que la régression linéaire, les arbres de décision, les réseaux neuronaux et les méthodes d'apprentissage automatique, en utilisant des bibliothèques comme Scikit-learn et TensorFlow."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Évaluation et validation des modèles",
+      "details": "J'ai évalué les performances des modèles en utilisant des métriques appropriées et j'ai validé leur généralisation à l'aide de techniques telles que la validation croisée et la répartition des données en ensembles d'entraînement et de test."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Analyse statistique avancée",
+      "details": "J'ai utilisé des techniques statistiques avancées telles que l'analyse de séries chronologiques, l'analyse de survie et l'analyse de clustering pour extraire des insights significatifs à partir de données complexes et hétérogènes."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Communication des résultats",
+      "details": "J'ai présenté les résultats de mes analyses de manière claire et convaincante, à la fois à des publics techniques et non techniques, et j'ai collaboré avec d'autres départements pour intégrer les insights dans les processus décisionnels de l'entreprise."
+    }
+  ],
+  "exemple_projet_majeur": {
+    "projet": "Prédiction de la churn des clients",
+    "details": [
+      "J'ai dirigé un projet visant à prédire le churn des clients en utilisant des données comportementales et transactionnelles.",
+      "En développant un modèle de régression logistique avec une précision de prédiction de 85 %, nous avons identifié les facteurs clés influençant la décision des clients de résilier leur abonnement, permettant ainsi à l'entreprise de mettre en place des stratégies de rétention ciblées."
+    ]
+  }
+},
+{
+  "id": "poste5",
+  "poste": "Ingénieur Data",
+  "photo":"https://i.pinimg.com/736x/f5/2d/05/f52d05788833e9c0a6cc8baacae9cf1c.jpg",
+  "entreprise": "Entreprise XYZ",
+  "ville": "Ville",
+  "pays": "Pays",
+  "periode": "Septembre 2019 - Décembre 2023",
+  "description_poste": "En tant qu'ingénieur Data chez Entreprise XYZ, j'ai été chargé de concevoir, développer et gérer l'infrastructure et les pipelines de données pour assurer la collecte, le stockage, le traitement et l'analyse efficaces des données. Mon rôle principal consistait à garantir la disponibilité, la fiabilité et la performance des systèmes de données de l'entreprise.",
+  "realisations_responsabilites": [
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Conception et développement d'architectures de données",
+      "details": "J'ai conçu et mis en œuvre des architectures de données évolutives et résilientes en utilisant des technologies telles que Apache Hadoop, Apache Spark, et des bases de données NoSQL, en garantissant la gestion efficace des volumes massifs de données de l'entreprise."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Développement de pipelines de données",
+      "details": "J'ai développé des pipelines de données robustes pour l'ingestion, le traitement et la transformation des données à grande échelle, en utilisant des outils comme Apache Kafka, Apache NiFi et Apache Airflow."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Optimisation des performances",
+      "details": "J'ai optimisé les performances des pipelines de données en identifiant et en résolvant les goulets d'étranglement, en améliorant l'efficacité des requêtes et en mettant en œuvre des techniques de partitionnement et de distribution de données."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Sécurité des données",
+      "details": "J'ai mis en place des mesures de sécurité des données robustes, y compris le chiffrement des données, l'authentification et l'autorisation, pour garantir la confidentialité et l'intégrité des données sensibles de l'entreprise."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Automatisation des tâches",
+      "details": "J'ai automatisé les tâches répétitives et les processus de gestion des données en utilisant des scripts et des outils d'automatisation, réduisant ainsi les coûts opérationnels et améliorant l'efficacité."
+    }
+  ],
+  "exemple_projet_majeur": {
+    "projet": "Migration vers une plateforme de données cloud",
+    "details": [
+      "J'ai dirigé la migration des systèmes de données de l'entreprise vers une plateforme de données cloud, en utilisant des services comme Amazon Web Services (AWS) et Google Cloud Platform (GCP).",
+      "En migrer les données vers le cloud, nous avons amélioré la scalabilité, la flexibilité et la disponibilité des systèmes de données, permettant à l'entreprise de gérer efficacement sa croissance et ses besoins en données."
+    ]
+  }
+
+},
+{
+  "id": "poste6",
+  "poste": "Chief Data Officer (CDO)",
+  "photo":"https://i.pinimg.com/736x/28/48/89/284889e7034f1bdd2184c96cdf859455.jpg",
+  "entreprise": "Entreprise ABC",
+  "ville": "Ville",
+  "pays": "Pays",
+  "periode": "Janvier 2017 - Mars 2024",
+  "description_poste": "En tant que Chief Data Officer chez Entreprise ABC, j'ai dirigé la stratégie globale de gestion des données de l'entreprise pour exploiter la valeur des données et favoriser l'innovation. Mon rôle était de superviser toutes les initiatives liées aux données, de garantir la qualité, la sécurité et la gouvernance des données, ainsi que de promouvoir une culture axée sur les données au sein de l'organisation.",
+  "realisations_responsabilites": [
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Stratégie et vision des données",
+      "details": "J'ai élaboré et mis en œuvre une stratégie globale de gestion des données alignée sur les objectifs commerciaux de l'entreprise, en identifiant les opportunités d'utilisation des données pour stimuler la croissance, l'efficacité opérationnelle et l'innovation."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Gouvernance des données",
+      "details": "J'ai établi des politiques et des processus de gouvernance des données pour garantir la qualité, la confidentialité, la sécurité et l'intégrité des données, ainsi que pour assurer la conformité aux réglementations et aux normes de l'industrie."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Infrastructure et architecture des données",
+      "details": "J'ai supervisé la conception et le déploiement de l'infrastructure et de l'architecture des données pour répondre aux besoins actuels et futurs de l'entreprise, en utilisant des technologies telles que les entrepôts de données, le cloud computing et le Big Data."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Culture axée sur les données",
+      "details": "J'ai encouragé une culture axée sur les données au sein de l'organisation en promouvant l'utilisation des données dans la prise de décision, en fournissant une formation sur les compétences en données et en encourageant la collaboration entre les équipes."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Leadership et collaboration",
+      "details": "J'ai dirigé une équipe multidisciplinaire de professionnels des données et j'ai collaboré étroitement avec les départements métier pour comprendre leurs besoins en données et les aider à exploiter pleinement le potentiel de leurs données."
+    }
+  ],
+  "exemple_projet_majeur": {
+    "projet": "Initiative de gouvernance des données",
+    "details": [
+      "J'ai dirigé une initiative de gouvernance des données visant à rationaliser les processus de collecte, de stockage et d'utilisation des données à l'échelle de l'entreprise.",
+      "En mettant en œuvre des politiques et des normes de gouvernance des données, nous avons amélioré la qualité et la cohérence des données, réduit les risques liés à la sécurité des données et renforcé la confiance des parties prenantes dans les données de l'entreprise."
+    ]
+  }
+},
+{
+  "id": "poste7",
+  "poste": "Data Manager",
+  "photo":"https://i.pinimg.com/736x/af/ce/8c/afce8ca6ae5a729a3f69f4728d9945eb.jpg",
+  "entreprise": "Entreprise XYZ",
+  "ville": "Ville",
+  "pays": "Pays",
+  "periode": "Mars 2018 - Juillet 2023",
+  "description_poste": "En tant que Data Manager chez Entreprise XYZ, j'ai été responsable de la gestion efficace de toutes les données de l'entreprise, de leur collecte à leur stockage, en passant par leur analyse et leur utilisation. Mon rôle était de superviser les activités de gestion des données, de veiller à leur intégrité, leur sécurité et leur qualité, et de soutenir les besoins en données des différentes équipes de l'entreprise.",
+  "realisations_responsabilites": [
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Gestion du cycle de vie des données",
+      "details": "J'ai supervisé le cycle de vie complet des données, depuis leur acquisition et leur ingestion jusqu'à leur archivage ou leur suppression, en garantissant la conformité aux politiques de conservation des données et aux réglementations en vigueur."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Qualité et intégrité des données",
+      "details": "J'ai mis en place des processus de contrôle de la qualité des données pour assurer leur exactitude, leur cohérence et leur fiabilité, en identifiant et en corrigeant les erreurs de données et en maintenant leur intégrité tout au long de leur cycle de vie."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Sécurité des données",
+      "details": "J'ai assuré la sécurité des données en mettant en œuvre des politiques et des mesures de sécurité appropriées, y compris le chiffrement des données, la gestion des accès et la surveillance des menaces, pour protéger les données sensibles de l'entreprise contre les accès non autorisés."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Support aux utilisateurs",
+      "details": "J'ai fourni un support aux utilisateurs internes pour répondre à leurs besoins en matière de données, en aidant à l'accès aux données, à la création de rapports et à l'interprétation des résultats d'analyse, tout en assurant la confidentialité et la sécurité des données."
+    },
+    {
+      "photo":"https://i.pinimg.com/736x/4e/27/59/4e27595c10b6355aea1eb3d9c421d1cd.jpg",
+      "description": "Gestion des partenariats et des fournisseurs",
+      "details": "J'ai collaboré avec des partenaires externes et des fournisseurs de services pour la gestion des données, en établissant des relations de travail efficaces et en assurant la conformité aux accords de confidentialité et aux normes de sécurité des données."
+    }
+  ],
+  "exemple_projet_majeur": {
+    "projet": "Mise en place d'un entrepôt de données centralisé",
+    "details": [
+      "J'ai dirigé un projet visant à mettre en place un entrepôt de données centralisé pour consolider les données dispersées à travers l'entreprise.",
+      "En centralisant les données dans un entrepôt unique, nous avons amélioré l'accès aux données, réduit les redondances et les incohérences, et facilité l'analyse et la génération de rapports, ce qui a renforcé la prise de décision basée sur les données."
+    ]
+  }
+}
+
+
+
+]
+
+    

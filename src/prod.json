@@ -1,0 +1,760 @@
+{
+    "data": [
+        {
+            "admin_graphql_api_id": "gid://shopify/Product/7433396781289",
+            "body_html": "",
+            "created_at": "2021-11-04T12:11:13-04:00",
+            "handle": "dark-roast-duo",
+            "id": 7433396781289,
+            "image": {
+                "admin_graphql_api_id": "gid://shopify/ProductImage/42126429782249",
+                "alt": null,
+                "created_at": "2024-03-05T13:10:05-05:00",
+                "height": 1500,
+                "id": 42126429782249,
+                "metafields": [],
+                "position": 1,
+                "product_id": 7433396781289,
+                "src": "https://cdn.shopify.com/s/files/1/0605/0555/5177/files/BBSS_1_4e58369b-77fb-45a8-a764-7e11d8b438bb_1500x_1.png?v=1709662207",
+                "updated_at": "2024-03-05T13:10:11-05:00",
+                "variant_ids": [
+                    42120428126441,
+                    42120428159209
+                ],
+                "width": 1500
+            },
+            "images": [
+                {
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/42126429782249",
+                    "alt": null,
+                    "created_at": "2024-03-05T13:10:05-05:00",
+                    "height": 1500,
+                    "id": 42126429782249,
+                    "metafields": [],
+                    "position": 1,
+                    "product_id": 7433396781289,
+                    "src": "https://cdn.shopify.com/s/files/1/0605/0555/5177/files/BBSS_1_4e58369b-77fb-45a8-a764-7e11d8b438bb_1500x_1.png?v=1709662207",
+                    "updated_at": "2024-03-05T13:10:11-05:00",
+                    "variant_ids": [
+                        42120428126441,
+                        42120428159209
+                    ],
+                    "width": 1500
+                }
+            ],
+            "options": [
+                {
+                    "id": 9453051871465,
+                    "name": "Size",
+                    "position": 1,
+                    "product_id": 7433396781289,
+                    "values": [
+                        "1 lb",
+                        "2 lb"
+                    ]
+                }
+            ],
+            "product_type": "Coffee",
+            "published_at": "2021-11-04T12:11:14-04:00",
+            "published_scope": "web",
+            "status": "active",
+            "tags": "coffee, exclude_rebuy_reorder, in stock online",
+            "template_suffix": "",
+            "title": "Dark Roast Duo",
+            "updated_at": "2024-06-03T00:15:08-04:00",
+            "variant_ids": [
+                {
+                    "id": 42120428126441
+                },
+                {
+                    "id": 42120428159209
+                }
+            ],
+            "vendor": "rebuydemo",
+            "variants": [
+                {
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/42120428126441",
+                    "barcode": "",
+                    "compare_at_price": "20.00",
+                    "created_at": "2021-11-24T12:18:27-05:00",
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "id": 42120428126441,
+                    "image_id": 42126429782249,
+                    "inventory_item_id": 44214441017577,
+                    "inventory_management": "shopify",
+                    "inventory_policy": "deny",
+                    "inventory_quantity": 993246,
+                    "old_inventory_quantity": 993246,
+                    "option1": "1 lb",
+                    "option2": null,
+                    "option3": null,
+                    "position": 1,
+                    "price": "15.00",
+                    "product_id": 7433396781289,
+                    "requires_shipping": true,
+                    "sku": "55555",
+                    "taxable": true,
+                    "title": "1 lb",
+                    "updated_at": "2024-06-03T00:13:42-04:00",
+                    "weight": 0,
+                    "weight_unit": "lb",
+                    "link": "https://try.rebuyengine.com/products/dark-roast-duo?variant=42120428126441"
+                },
+                {
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/42120428159209",
+                    "barcode": "",
+                    "compare_at_price": "40.00",
+                    "created_at": "2021-11-24T12:18:27-05:00",
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "id": 42120428159209,
+                    "image_id": 42126429782249,
+                    "inventory_item_id": 44214441050345,
+                    "inventory_management": "shopify",
+                    "inventory_policy": "deny",
+                    "inventory_quantity": 998287,
+                    "old_inventory_quantity": 998287,
+                    "option1": "2 lb",
+                    "option2": null,
+                    "option3": null,
+                    "position": 2,
+                    "price": "30.00",
+                    "product_id": 7433396781289,
+                    "requires_shipping": true,
+                    "sku": "",
+                    "taxable": true,
+                    "title": "2 lb",
+                    "updated_at": "2024-06-03T00:13:46-04:00",
+                    "weight": 0,
+                    "weight_unit": "lb",
+                    "link": "https://try.rebuyengine.com/products/dark-roast-duo?variant=42120428159209"
+                }
+            ],
+            "collection_ids": [
+                373269922025,
+                373330870505,
+                402502615273,
+                421259084009,
+                421259182313
+            ],
+            "cache_info": {
+                "loaded_options": {
+                    "metafields": false,
+                    "variant_metafields": false,
+                    "selling_plans": false,
+                    "shopify_selling_plans_loaded": false,
+                    "presentment_prices": false
+                },
+                "shopify_selling_plans_loaded_at": 1717400873,
+                "cached_at_time": 1717400874,
+                "cache_key": "pro_bt#2cb45d3f067b585aa1d06860c4e16aa4",
+                "cache_key_readable": "pro_bt#user_id:6410#shopify_product_id:\"7433396781289\"#user_id:\"6410\""
+            },
+            "link": "https://try.rebuyengine.com/products/dark-roast-duo",
+            "owner": 6410
+        },
+        {
+            "admin_graphql_api_id": "gid://shopify/Product/7433881026793",
+            "body_html": "",
+            "created_at": "2021-11-04T18:14:45-04:00",
+            "handle": "jasmine-tea",
+            "id": 7433881026793,
+            "image": {
+                "admin_graphql_api_id": "gid://shopify/ProductImage/34472824701161",
+                "alt": null,
+                "created_at": "2021-11-04T18:14:45-04:00",
+                "height": 2048,
+                "id": 34472824701161,
+                "metafields": [],
+                "position": 1,
+                "product_id": 7433881026793,
+                "src": "https://cdn.shopify.com/s/files/1/0605/0555/5177/products/FrontCanMockup2.png?v=1636064086",
+                "updated_at": "2021-11-04T18:14:47-04:00",
+                "variant_ids": [],
+                "width": 2048
+            },
+            "images": [
+                {
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/34472824701161",
+                    "alt": null,
+                    "created_at": "2021-11-04T18:14:45-04:00",
+                    "height": 2048,
+                    "id": 34472824701161,
+                    "metafields": [],
+                    "position": 1,
+                    "product_id": 7433881026793,
+                    "src": "https://cdn.shopify.com/s/files/1/0605/0555/5177/products/FrontCanMockup2.png?v=1636064086",
+                    "updated_at": "2021-11-04T18:14:47-04:00",
+                    "variant_ids": [],
+                    "width": 2048
+                }
+            ],
+            "options": [
+                {
+                    "id": 9453714243817,
+                    "name": "Title",
+                    "position": 1,
+                    "product_id": 7433881026793,
+                    "values": [
+                        "Default Title"
+                    ]
+                }
+            ],
+            "product_type": "Tea & Infusions",
+            "published_at": "2021-11-04T18:14:46-04:00",
+            "published_scope": "web",
+            "status": "active",
+            "tags": "in stock online, tea",
+            "template_suffix": "",
+            "title": "Jasmine Tea",
+            "updated_at": "2024-06-03T00:15:09-04:00",
+            "variant_ids": [
+                {
+                    "id": 42005932146921
+                }
+            ],
+            "vendor": "rebuydemo",
+            "variants": [
+                {
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/42005932146921",
+                    "barcode": "",
+                    "compare_at_price": "0.00",
+                    "created_at": "2021-11-04T18:14:45-04:00",
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "id": 42005932146921,
+                    "image_id": null,
+                    "inventory_item_id": 44099736109289,
+                    "inventory_management": "shopify",
+                    "inventory_policy": "deny",
+                    "inventory_quantity": 996577,
+                    "old_inventory_quantity": 996577,
+                    "option1": "Default Title",
+                    "option2": null,
+                    "option3": null,
+                    "position": 1,
+                    "price": "10.00",
+                    "product_id": 7433881026793,
+                    "requires_shipping": true,
+                    "sku": "",
+                    "taxable": true,
+                    "title": "Default Title",
+                    "updated_at": "2024-06-03T00:13:45-04:00",
+                    "weight": 0,
+                    "weight_unit": "lb",
+                    "link": "https://try.rebuyengine.com/products/jasmine-tea?variant=42005932146921"
+                }
+            ],
+            "collection_ids": [
+                373269922025,
+                373330903273,
+                402502615273,
+                421259084009,
+                421259182313
+            ],
+            "cache_info": {
+                "loaded_options": {
+                    "metafields": true,
+                    "variant_metafields": false,
+                    "selling_plans": false,
+                    "shopify_selling_plans_loaded": false,
+                    "presentment_prices": false
+                },
+                "shopify_selling_plans_loaded_at": 1717399063,
+                "cached_at_time": 1717395554,
+                "cache_key": "pro_bt#28c2e34d730a7d0e10fbefa5318467ba",
+                "cache_key_readable": "pro_bt#user_id:6410#shopify_product_id:\"7433881026793\"#user_id:\"6410\""
+            },
+            "link": "https://try.rebuyengine.com/products/jasmine-tea",
+            "owner": 6410
+        },
+        {
+            "admin_graphql_api_id": "gid://shopify/Product/7433397534953",
+            "body_html": "",
+            "created_at": "2021-11-04T12:11:41-04:00",
+            "handle": "monday-morning-brew",
+            "id": 7433397534953,
+            "image": {
+                "admin_graphql_api_id": "gid://shopify/ProductImage/42126422769897",
+                "alt": null,
+                "created_at": "2024-03-05T13:04:59-05:00",
+                "height": 1445,
+                "id": 42126422769897,
+                "metafields": [],
+                "position": 1,
+                "product_id": 7433397534953,
+                "src": "https://cdn.shopify.com/s/files/1/0605/0555/5177/files/MondayMorning_1_1445x_1.png?v=1709661900",
+                "updated_at": "2024-03-05T13:05:05-05:00",
+                "variant_ids": [
+                    42120411087081,
+                    42120411119849
+                ],
+                "width": 1445
+            },
+            "images": [
+                {
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/42126422769897",
+                    "alt": null,
+                    "created_at": "2024-03-05T13:04:59-05:00",
+                    "height": 1445,
+                    "id": 42126422769897,
+                    "metafields": [],
+                    "position": 1,
+                    "product_id": 7433397534953,
+                    "src": "https://cdn.shopify.com/s/files/1/0605/0555/5177/files/MondayMorning_1_1445x_1.png?v=1709661900",
+                    "updated_at": "2024-03-05T13:05:05-05:00",
+                    "variant_ids": [
+                        42120411087081,
+                        42120411119849
+                    ],
+                    "width": 1445
+                }
+            ],
+            "options": [
+                {
+                    "id": 9453052723433,
+                    "name": "Size",
+                    "position": 1,
+                    "product_id": 7433397534953,
+                    "values": [
+                        "1 lb",
+                        "2 lb"
+                    ]
+                }
+            ],
+            "product_type": "Coffee",
+            "published_at": "2021-11-04T12:11:43-04:00",
+            "published_scope": "web",
+            "status": "active",
+            "tags": "coffee, exclude_rebuy_reorder, in stock online",
+            "template_suffix": "",
+            "title": "Monday Morning Brew",
+            "updated_at": "2024-06-03T00:15:08-04:00",
+            "variant_ids": [
+                {
+                    "id": 42120411087081
+                },
+                {
+                    "id": 42120411119849
+                }
+            ],
+            "vendor": "rebuydemo",
+            "variants": [
+                {
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/42120411087081",
+                    "barcode": "",
+                    "compare_at_price": null,
+                    "created_at": "2021-11-24T12:12:56-05:00",
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "id": 42120411087081,
+                    "image_id": 42126422769897,
+                    "inventory_item_id": 44214423945449,
+                    "inventory_management": "shopify",
+                    "inventory_policy": "deny",
+                    "inventory_quantity": 995810,
+                    "old_inventory_quantity": 995810,
+                    "option1": "1 lb",
+                    "option2": null,
+                    "option3": null,
+                    "position": 1,
+                    "price": "10.00",
+                    "product_id": 7433397534953,
+                    "requires_shipping": true,
+                    "sku": "",
+                    "taxable": true,
+                    "title": "1 lb",
+                    "updated_at": "2024-06-03T00:13:46-04:00",
+                    "weight": 0,
+                    "weight_unit": "lb",
+                    "link": "https://try.rebuyengine.com/products/monday-morning-brew?variant=42120411087081"
+                },
+                {
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/42120411119849",
+                    "barcode": "",
+                    "compare_at_price": "20.00",
+                    "created_at": "2021-11-24T12:12:56-05:00",
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "id": 42120411119849,
+                    "image_id": 42126422769897,
+                    "inventory_item_id": 44214423978217,
+                    "inventory_management": "shopify",
+                    "inventory_policy": "deny",
+                    "inventory_quantity": 998449,
+                    "old_inventory_quantity": 998449,
+                    "option1": "2 lb",
+                    "option2": null,
+                    "option3": null,
+                    "position": 2,
+                    "price": "15.00",
+                    "product_id": 7433397534953,
+                    "requires_shipping": true,
+                    "sku": "",
+                    "taxable": true,
+                    "title": "2 lb",
+                    "updated_at": "2024-06-03T00:13:46-04:00",
+                    "weight": 0,
+                    "weight_unit": "lb",
+                    "link": "https://try.rebuyengine.com/products/monday-morning-brew?variant=42120411119849"
+                }
+            ],
+            "collection_ids": [
+                373269922025,
+                373330870505,
+                402502615273,
+                421259084009,
+                421259182313
+            ],
+            "cache_info": {
+                "loaded_options": {
+                    "metafields": false,
+                    "variant_metafields": false,
+                    "selling_plans": false,
+                    "shopify_selling_plans_loaded": false,
+                    "presentment_prices": false
+                },
+                "cached_at_time": 1717395701,
+                "cache_key": "pro_bt#285034df58df4be8c57aab358df794cf",
+                "cache_key_readable": "pro_bt#user_id:6410#shopify_product_id:\"7433397534953\"#user_id:\"6410\""
+            },
+            "link": "https://try.rebuyengine.com/products/monday-morning-brew",
+            "owner": "6410"
+        },
+        {
+            "admin_graphql_api_id": "gid://shopify/Product/7433398157545",
+            "body_html": "Super secret coffee bag!",
+            "created_at": "2021-11-04T12:12:06-04:00",
+            "handle": "mystery-coffee-bag",
+            "id": 7433398157545,
+            "image": {
+                "admin_graphql_api_id": "gid://shopify/ProductImage/42126421688553",
+                "alt": null,
+                "created_at": "2024-03-05T13:02:59-05:00",
+                "height": 1500,
+                "id": 42126421688553,
+                "metafields": [],
+                "position": 1,
+                "product_id": 7433398157545,
+                "src": "https://cdn.shopify.com/s/files/1/0605/0555/5177/files/Mystery_1_1500x_1.png?v=1709661781",
+                "updated_at": "2024-03-05T13:03:05-05:00",
+                "variant_ids": [],
+                "width": 1500
+            },
+            "images": [
+                {
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/42126421688553",
+                    "alt": null,
+                    "created_at": "2024-03-05T13:02:59-05:00",
+                    "height": 1500,
+                    "id": 42126421688553,
+                    "metafields": [],
+                    "position": 1,
+                    "product_id": 7433398157545,
+                    "src": "https://cdn.shopify.com/s/files/1/0605/0555/5177/files/Mystery_1_1500x_1.png?v=1709661781",
+                    "updated_at": "2024-03-05T13:03:05-05:00",
+                    "variant_ids": [],
+                    "width": 1500
+                }
+            ],
+            "options": [
+                {
+                    "id": 9453053411561,
+                    "name": "Size",
+                    "position": 1,
+                    "product_id": 7433398157545,
+                    "values": [
+                        "1 lb",
+                        "2 lb"
+                    ]
+                }
+            ],
+            "product_type": "Coffee",
+            "published_at": "2021-11-04T12:12:07-04:00",
+            "published_scope": "web",
+            "status": "active",
+            "tags": "coffee, in stock online",
+            "template_suffix": "",
+            "title": "Mystery Coffee Bag",
+            "updated_at": "2024-06-03T00:15:08-04:00",
+            "variant_ids": [
+                {
+                    "id": 42120430026985
+                },
+                {
+                    "id": 42120430059753
+                }
+            ],
+            "vendor": "rebuydemo",
+            "variants": [
+                {
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/42120430026985",
+                    "barcode": "",
+                    "compare_at_price": "10.00",
+                    "created_at": "2021-11-24T12:18:50-05:00",
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "id": 42120430026985,
+                    "image_id": null,
+                    "inventory_item_id": 44214442918121,
+                    "inventory_management": "shopify",
+                    "inventory_policy": "deny",
+                    "inventory_quantity": 996297,
+                    "old_inventory_quantity": 996297,
+                    "option1": "1 lb",
+                    "option2": null,
+                    "option3": null,
+                    "position": 1,
+                    "price": "5.00",
+                    "product_id": 7433398157545,
+                    "requires_shipping": true,
+                    "sku": "55555",
+                    "taxable": true,
+                    "title": "1 lb",
+                    "updated_at": "2024-06-02T00:13:01-04:00",
+                    "weight": 0,
+                    "weight_unit": "lb",
+                    "link": "https://try.rebuyengine.com/products/mystery-coffee-bag?variant=42120430026985"
+                },
+                {
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/42120430059753",
+                    "barcode": "",
+                    "compare_at_price": "20.00",
+                    "created_at": "2021-11-24T12:18:50-05:00",
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "id": 42120430059753,
+                    "image_id": null,
+                    "inventory_item_id": 44214442950889,
+                    "inventory_management": "shopify",
+                    "inventory_policy": "deny",
+                    "inventory_quantity": 999331,
+                    "old_inventory_quantity": 999331,
+                    "option1": "2 lb",
+                    "option2": null,
+                    "option3": null,
+                    "position": 2,
+                    "price": "10.00",
+                    "product_id": 7433398157545,
+                    "requires_shipping": true,
+                    "sku": "",
+                    "taxable": true,
+                    "title": "2 lb",
+                    "updated_at": "2024-06-03T00:13:46-04:00",
+                    "weight": 0,
+                    "weight_unit": "lb",
+                    "link": "https://try.rebuyengine.com/products/mystery-coffee-bag?variant=42120430059753"
+                }
+            ],
+            "collection_ids": [
+                373269922025,
+                373330870505,
+                402502615273,
+                421259084009,
+                421259182313
+            ],
+            "cache_info": {
+                "loaded_options": {
+                    "metafields": false,
+                    "variant_metafields": false,
+                    "selling_plans": false,
+                    "shopify_selling_plans_loaded": false,
+                    "presentment_prices": false
+                },
+                "cached_at_time": 1717398401,
+                "cache_key": "pro_bt#59ec62d05462c08d6b8ca4e4898dd567",
+                "cache_key_readable": "pro_bt#user_id:6410#shopify_product_id:\"7433398157545\"#user_id:\"6410\"",
+                "shopify_selling_plans_loaded_at": 1717400408
+            },
+            "link": "https://try.rebuyengine.com/products/mystery-coffee-bag",
+            "owner": "6410"
+        },
+        {
+            "admin_graphql_api_id": "gid://shopify/Product/7432474001641",
+            "body_html": "Scroll down to see Rebuy's Dynamic Bundle feature in action!",
+            "created_at": "2021-11-03T17:23:59-04:00",
+            "handle": "daily-moisturizer",
+            "id": 7432474001641,
+            "image": {
+                "admin_graphql_api_id": "gid://shopify/ProductImage/34466973614313",
+                "alt": null,
+                "created_at": "2021-11-03T17:23:59-04:00",
+                "height": 2048,
+                "id": 34466973614313,
+                "metafields": [],
+                "position": 1,
+                "product_id": 7432474001641,
+                "src": "https://cdn.shopify.com/s/files/1/0605/0555/5177/products/Lotion_1.png?v=1635974641",
+                "updated_at": "2021-11-03T17:24:01-04:00",
+                "variant_ids": [],
+                "width": 2048
+            },
+            "images": [
+                {
+                    "admin_graphql_api_id": "gid://shopify/ProductImage/34466973614313",
+                    "alt": null,
+                    "created_at": "2021-11-03T17:23:59-04:00",
+                    "height": 2048,
+                    "id": 34466973614313,
+                    "metafields": [],
+                    "position": 1,
+                    "product_id": 7432474001641,
+                    "src": "https://cdn.shopify.com/s/files/1/0605/0555/5177/products/Lotion_1.png?v=1635974641",
+                    "updated_at": "2021-11-03T17:24:01-04:00",
+                    "variant_ids": [],
+                    "width": 2048
+                }
+            ],
+            "options": [
+                {
+                    "id": 9451851874537,
+                    "name": "Scent",
+                    "position": 1,
+                    "product_id": 7432474001641,
+                    "values": [
+                        "Lemongrass",
+                        "Mint",
+                        "Lushberry"
+                    ]
+                }
+            ],
+            "product_type": "Health & Beauty",
+            "published_at": "2024-04-22T17:34:50-04:00",
+            "published_scope": "web",
+            "status": "active",
+            "tags": "beautiful face bundle, beauty, in stock online",
+            "template_suffix": "",
+            "title": "Daily Moisturizer",
+            "updated_at": "2024-06-03T00:15:08-04:00",
+            "variant_ids": [
+                {
+                    "id": 43348965818601
+                },
+                {
+                    "id": 43348965851369
+                },
+                {
+                    "id": 43348965884137
+                }
+            ],
+            "vendor": "rebuydemo",
+            "variants": [
+                {
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/43348965818601",
+                    "barcode": "",
+                    "compare_at_price": null,
+                    "created_at": "2022-07-07T11:46:11-04:00",
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "id": 43348965818601,
+                    "image_id": null,
+                    "inventory_item_id": 45444499407081,
+                    "inventory_management": "shopify",
+                    "inventory_policy": "deny",
+                    "inventory_quantity": 998804,
+                    "old_inventory_quantity": 998804,
+                    "option1": "Lemongrass",
+                    "option2": null,
+                    "option3": null,
+                    "position": 1,
+                    "price": "9.99",
+                    "product_id": 7432474001641,
+                    "requires_shipping": true,
+                    "sku": "",
+                    "taxable": true,
+                    "title": "Lemongrass",
+                    "updated_at": "2024-06-03T00:13:46-04:00",
+                    "weight": 0,
+                    "weight_unit": "lb",
+                    "link": "https://try.rebuyengine.com/products/daily-moisturizer?variant=43348965818601"
+                },
+                {
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/43348965851369",
+                    "barcode": "",
+                    "compare_at_price": null,
+                    "created_at": "2022-07-07T11:46:11-04:00",
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "id": 43348965851369,
+                    "image_id": null,
+                    "inventory_item_id": 45444499439849,
+                    "inventory_management": "shopify",
+                    "inventory_policy": "deny",
+                    "inventory_quantity": 9876,
+                    "old_inventory_quantity": 9876,
+                    "option1": "Mint",
+                    "option2": null,
+                    "option3": null,
+                    "position": 2,
+                    "price": "9.99",
+                    "product_id": 7432474001641,
+                    "requires_shipping": true,
+                    "sku": "",
+                    "taxable": true,
+                    "title": "Mint",
+                    "updated_at": "2024-05-13T00:14:20-04:00",
+                    "weight": 0,
+                    "weight_unit": "lb",
+                    "link": "https://try.rebuyengine.com/products/daily-moisturizer?variant=43348965851369"
+                },
+                {
+                    "admin_graphql_api_id": "gid://shopify/ProductVariant/43348965884137",
+                    "barcode": "",
+                    "compare_at_price": null,
+                    "created_at": "2022-07-07T11:46:11-04:00",
+                    "fulfillment_service": "manual",
+                    "grams": 0,
+                    "id": 43348965884137,
+                    "image_id": null,
+                    "inventory_item_id": 45444499472617,
+                    "inventory_management": "shopify",
+                    "inventory_policy": "deny",
+                    "inventory_quantity": 9898,
+                    "old_inventory_quantity": 9898,
+                    "option1": "Lushberry",
+                    "option2": null,
+                    "option3": null,
+                    "position": 3,
+                    "price": "9.99",
+                    "product_id": 7432474001641,
+                    "requires_shipping": true,
+                    "sku": "",
+                    "taxable": true,
+                    "title": "Lushberry",
+                    "updated_at": "2024-05-24T00:14:42-04:00",
+                    "weight": 0,
+                    "weight_unit": "lb",
+                    "link": "https://try.rebuyengine.com/products/daily-moisturizer?variant=43348965884137"
+                }
+            ],
+            "collection_ids": [
+                373269987561,
+                402502615273,
+                421259084009,
+                421259182313
+            ],
+            "cache_info": {
+                "loaded_options": {
+                    "metafields": false,
+                    "variant_metafields": false,
+                    "selling_plans": false,
+                    "shopify_selling_plans_loaded": false,
+                    "presentment_prices": false
+                },
+                "cached_at_time": 1717402000,
+                "cache_key": "pro_bt#60ddf9f3c4b0694a76843d17a0d15dd0",
+                "cache_key_readable": "pro_bt#user_id:6410#shopify_product_id:\"7432474001641\"#user_id:\"6410\""
+            },
+            "link": "https://try.rebuyengine.com/products/daily-moisturizer",
+            "owner": "6410"
+        }
+    ],
+    "metadata": {
+        "cache_info": {
+            "cache_key": "re_c#768032696373e29337c6ae068339ba69",
+            "cache_key_readable": "re_c#user_id:6410#user_id:\"6410\"#params:\"limit:5&v=1&filter_oos=yes&context=default\"",
+            "cached_at_time": 1717403132
+        }
+    }
+}
