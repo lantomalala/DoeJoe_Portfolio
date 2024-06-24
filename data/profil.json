@@ -1,12 +1,12 @@
 {
-    "nom": "Doe",
-    "prenom": "John",
-    "age": 30,
+    "nom": "Lantomalala",
+    "prenom": "Justin",
+    "age": 23,
     "adresse": {
-      "rue": "123 Rue de la Liberté",
-      "ville": "Paris",
-      "code_postal": "75001",
-      "pays": "France"
+      "rue": "Andravoahangy Ouest",
+      "ville": "Antananarivo",
+      "code_postal": "101",
+      "pays": "Madagaskar"
     },
     "profession": "Ingénieur informatique",
     "email": "john.doe@example.com",
