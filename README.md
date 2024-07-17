@@ -13,7 +13,7 @@
 
 ## À propos de moi
 
-Je suis un développeur passionné par les nouvelles technologies et l'innovation. À 23 ans, j'ai déjà acquis une solide expérience dans le domaine du développement logiciel. Je me distingue par ma capacité à résoudre des problèmes complexes et à créer des solutions efficaces et élégantes. Toujours à la recherche de nouveaux défis, je suis déterminé à continuer à apprendre et à me perfectionner dans mon métier. En dehors du travail, j'aime explorer les avancées technologiques et participer à des projets collaboratifs qui contribuent à l'amélioration de la communauté.
+Je suis un développeur passionné par les nouvelles technologies et l'innovation. À 23 ans, j'ai déjà acquis une solide expérience dans le domaine du développement Web. Je me distingue par ma capacité à résoudre des problèmes complexes et à créer des solutions efficaces et élégantes. Toujours à la recherche de nouveaux défis, je suis déterminé à continuer à apprendre et à me perfectionner dans mon métier. En dehors du travail, j'aime explorer les avancées technologiques et participer à des projets collaboratifs qui contribuent à l'amélioration de la communauté.
 
 ## Expérience
 
